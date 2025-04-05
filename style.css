@@ -6,7 +6,7 @@ body{
     background-color: black;
 }
 header{
-    background-image: url(/Asset/Photos/Netflix\ Background.jpg); 
+    background-image: url('backgrounf.jpg'); 
     height: 95vh;
     position: relative;
     background-size: max(1600px, 100vw);
